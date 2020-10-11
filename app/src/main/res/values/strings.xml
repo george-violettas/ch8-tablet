@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ch8-tablet</string>
+    <string name="imgSail">Sailing Image</string>
+    <string name="txtTitle">Sailing iAdventures n Hawai</string>
+    <string name="bttnDate">Choose the desired date</string>
+    <string name="TextDescription">A long text about describing the webstie</string>
+</resources>
